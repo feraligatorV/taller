@@ -18,7 +18,7 @@ class ContactsScreen extends StatefulWidget {
 
 class _ContactsScreenState extends State<ContactsScreen> {
   List contacts = [];
-  var index = 0;
+  var index = 1;
   bool loading = true;
 
   @override
